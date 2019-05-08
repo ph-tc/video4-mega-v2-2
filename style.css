@@ -654,7 +654,7 @@ img {
 @media screen and (max-height: 233px) and (orientation: landscape) {
 	.main .btn-wrapper {
 		top: auto;
-		bottom: 22px;
+		bottom: 52px;
 		-webkit-transform: translate(0, -27px);
 		-ms-transform: translate(0, -27px);
 		transform: translate(0, -27px);
