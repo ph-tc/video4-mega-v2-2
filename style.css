@@ -661,7 +661,7 @@ img {
 	}
 }
 
-@media screen and (max-height: 490px) {
+@media screen and (max-height: 540px) {
 	.main .btn-wrapper .heading {
 		display: none;
 	}
